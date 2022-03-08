@@ -1,6 +1,6 @@
-## Welcome to my GitHub Page
+# Welcome to my GitHub Page
 
-# TPT Notes
+### 5.1-5.6 TPT Notes
 **Beneficial and Harmful Effects (5.1)**
 _5.1.1_
 Accelerometer: a sensor to detect acceleration. Used in cars for airbag release. 
