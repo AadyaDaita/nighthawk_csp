@@ -6,6 +6,7 @@
 _5.1.1_
 - Accelerometer: a sensor to detect acceleration. Used in cars for airbag release. 
 - Computer innovations have beneficial and harmful effects on people, and not everything is anticipated in advance. 
+
 _5.1.2_
 - As not all the harmful effects can be predicted, responsible programmers think ahead, as much as they can.  
 
