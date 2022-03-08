@@ -1,4 +1,4 @@
-# Welcome to my GitHub Page
+## Welcome to my GitHub Page
 
 ### 5.1-5.6 TPT Notes
 **Beneficial and Harmful Effects (5.1)**
