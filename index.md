@@ -3,10 +3,10 @@
 ### 5.1-5.6 TPT Notes
 **Beneficial and Harmful Effects (5.1)**
 _5.1.1_
-Accelerometer: a sensor to detect acceleration. Used in cars for airbag release. 
-Computer innovations have beneficial and harmful effects on people, and not everything is anticipated in advance. 
+- Accelerometer: a sensor to detect acceleration. Used in cars for airbag release. 
+- Computer innovations have beneficial and harmful effects on people, and not everything is anticipated in advance. 
 _5.1.2_
-As not all the harmful effects can be predicted, responsible programmers think ahead, as much as they can.  
+- As not all the harmful effects can be predicted, responsible programmers think ahead, as much as they can.  
 
 **Digital Divide (5.2)**
 - Digital divide - refers to differing access to computing devices and the Internet based on your income, location, your demographic and more. Raises issues of equity and equality people some have advantages over others. 
@@ -32,7 +32,7 @@ As not all the harmful effects can be predicted, responsible programmers think a
 
 **Safe Computing (5.6)**
 _5.6.1_
-Personally Identifiable Information is information about an individual. Hackers can steal these.
+- Personally Identifiable Information is information about an individual. Hackers can steal these.
 
 _5.6.2_
 - Authentication measured protect devices and information from unauthorized access. 
