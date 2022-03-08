@@ -48,9 +48,9 @@ _5.6.2_
 - Decryption - decoding an encrypted message.  
 
 _5.6.3_
- Phishing: An attempt to trick a user into providing personal information. 
-Keyloggers: records every keystroke made by a user in order to gain fraudulent access to passwords or other confidential information. 
-Rogue Access Point: A wireless network that can give unauthorized access to secure networks. When data is being sent in a network, the hacker could steal in on the way there, before it reaches the secure location. 
+- Phishing: An attempt to trick a user into providing personal information. 
+- Keyloggers: records every keystroke made by a user in order to gain fraudulent access to passwords or other confidential information. 
+- Rogue Access Point: A wireless network that can give unauthorized access to secure networks. When data is being sent in a network, the hacker could steal in on the way there, before it reaches the secure location. 
 
 
 
