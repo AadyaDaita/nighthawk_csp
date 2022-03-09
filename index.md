@@ -1,4 +1,4 @@
-## Welcome to my GitHub Page
+## Welcome to Aadya's GitHub Page
 
 ### 5.1-5.6 TPT Notes
 **Beneficial and Harmful Effects (5.1)**
@@ -18,6 +18,11 @@ _TPT 0.1_
 
 **Digital Divide (5.2)**
 - Digital divide - refers to differing access to computing devices and the Internet based on your income, location, your demographic and more. Raises issues of equity and equality people some have advantages over others. 
+
+_TPT 0.2_
+- One empowers themselves in the digitial world by having access to the lastest information in the world, and being updated on currect issues. This creates an informed citizen, that is educated about the world around them. Additionally, having a good and proper education, about how to use the internet. This allows for one to know how to use th web to get information about any resources. 
+- One can empower another to financially helping them get out of their situation. We can empower someone else by tellng/updating them about the issues in the world right now. Additonally, we as highschoolers can spread knowledge to others about the divide, and protest for the government to provide more resources. Lastly, we could join nonprofit organizations such as Educationist, and help kids around the world be empowered to knowledge. 
+- No, I do not think that red tape or anything else creates a divide in Del Norte. Red tape solely blocks social media, and other non-school related sites, which doesn't block important information. 
 
 **Computing Bias (5.3)**
 - Explicit Data -voluntarily giving data about yourself
