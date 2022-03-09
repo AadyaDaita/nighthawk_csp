@@ -10,6 +10,12 @@ _5.1.1_
 _5.1.2_
 - As not all the harmful effects can be predicted, responsible programmers think ahead, as much as they can.  
 
+_TPT 0.1_
+1. A beneficial effect of computing is allowing quicker access to the internet for research. At any place, at any time, I have access to information for anything as my fingertips. While studying for tests/homework, this is extremely helpful, as any question that I have can be answered. 
+2. Technology saves an immense amount of time for me, and numerous other scientists. While doing an extremely difficult and tedious problem, it is easy to do it quickly. A computer, such as my graphing calculator is extremely useful in doing this. 
+3. The most harmful effect of technology for me is getting addicted to social media, and talking to friends online. This ruins my motivation to do homework, studying, or doing productive activities, as I feel that I am glued to a phone/computer screen. 
+- My view on dopamine is that it is real. It is extremely rewarding to post something on social media, and reloading the page to see who viewed/liked it. I belive that this ties in with how much you care about how others percieve you. Additionally, for me, using social media is a huge waste of time, as it takes away an immense about of time from your day. This impacts my studying, as I have less time to finish my homework, and sometimes causing me to stay up late. 
+
 **Digital Divide (5.2)**
 - Digital divide - refers to differing access to computing devices and the Internet based on your income, location, your demographic and more. Raises issues of equity and equality people some have advantages over others. 
 
