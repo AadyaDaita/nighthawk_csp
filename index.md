@@ -11,9 +11,9 @@ _5.1.2_
 - As not all the harmful effects can be predicted, responsible programmers think ahead, as much as they can.  
 
 _TPT 0.1_
-1. A beneficial effect of computing is allowing quicker access to the internet for research. At any place, at any time, I have access to information for anything as my fingertips. While studying for tests/homework, this is extremely helpful, as any question that I have can be answered. 
-2. Technology saves an immense amount of time for me, and numerous other scientists. While doing an extremely difficult and tedious problem, it is easy to do it quickly. A computer, such as my graphing calculator is extremely useful in doing this. 
-3. The most harmful effect of technology for me is getting addicted to social media, and talking to friends online. This ruins my motivation to do homework, studying, or doing productive activities, as I feel that I am glued to a phone/computer screen. 
+1. A beneficial effect of computing is allowing quicker access to the internet for research. At any place, at any time, I have access to information for anything as my fingertips. While studying for tests/homework, this is extremely helpful, as any question that I have can be answered. However, it is extremely easy to get misinformation about a topic. This can provide to creating a closed mindset, with incorrect opinions. 
+2. Technology saves an immense amount of time for me, and numerous other scientists. While doing an extremely difficult and tedious problem, it is easy to do it quickly. A computer, such as my graphing calculator is extremely useful in doing this. It is possible for the calculator to not be able to do a problem correctly through overflow, or rounding, makin git harmful was important math problems that millions of dollars depend on. 
+3. The most harmful effect of technology for me is getting addicted to social media, and talking to friends online. This ruins my motivation to do homework, studying, or doing productive activities, as I feel that I am glued to a phone/computer screen. On the other hand, it helps one be more informative about current issues, and be more well-informed. 
 - My view on dopamine is that it is real. It is extremely rewarding to post something on social media, and reloading the page to see who viewed/liked it. I belive that this ties in with how much you care about how others percieve you. Additionally, for me, using social media is a huge waste of time, as it takes away an immense about of time from your day. This impacts my studying, as I have less time to finish my homework, and sometimes causing me to stay up late. 
 
 **Digital Divide (5.2)**
@@ -73,7 +73,8 @@ _5.6.3_
 
 
 
-### Individual Create Task Project
+### Individual Memory Game Create Task Project
+Here is the [main wiki](https://github.com/Athena9355/Fire-Alarm/wiki/Create-Task-Memory-Game-Main-Wiki---Aadya) for my Memory Game create task. Here is the [video](https://youtu.be/ZTev5aKTyqM), here is the [code](https://github.com/Athena9355/Fire-Alarm/blob/main/templates/memory_game/memory_game.html), and here is the [written task](https://github.com/Athena9355/Fire-Alarm/wiki/Memory-Game-Written-Section---Aadya-Daita)
 
 - Bulleted
 - List
